@@ -1,3 +1,15 @@
 --------------Ch-3 RECURSION----------------
 -Tail Recursion -> A function called tail recursive when the parent function has nothing to do when the child function is finished.
 -> Tail recursive functions are generally faster than other recurcive functions because it doesn't have to save the last state.
+
+-> For a string of length n, there are going to be 2^n subsets.
+
+--------------Ch-4 Arrays----------------
+Advantage of Vectors:-
+-> Dynamic Size
+-> Rich libraray function -> find, erase, insert, etc
+-> Easy to know size
+-> No need to pass size
+-> Can be returned from a function
+-> By default intialized with default values.
+-> We can copy a vector to another vector
