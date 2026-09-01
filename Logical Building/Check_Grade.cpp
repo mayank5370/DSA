@@ -24,6 +24,7 @@ string checkGrade(int num){
 
 
 int main(){
+    
     int number;
     cin >> number;
 
