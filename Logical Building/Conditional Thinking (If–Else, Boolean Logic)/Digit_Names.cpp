@@ -33,6 +33,8 @@ string digitToName(int num){
             return "Sunday";
             break;
     }
+
+    return "Invalid Input";
 }
 
 int main(){
