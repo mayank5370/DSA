@@ -25,4 +25,6 @@ int main(){
     cin >> num;
 
     cout << distinctDigit(num) << endl;
+
+    return 0;
 }

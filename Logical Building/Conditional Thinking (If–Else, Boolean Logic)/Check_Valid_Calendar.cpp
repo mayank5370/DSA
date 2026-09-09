@@ -28,7 +28,7 @@ string checkCalendar(int days, int month){
     }
     else {
         return "Invalid days and months";
-    }
+    }   
 }
 
 int main(){
@@ -39,4 +39,6 @@ int main(){
     cin >> month;
 
     cout << checkCalendar(days, month) << endl;
+
+    return 0;
 }

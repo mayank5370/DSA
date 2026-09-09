@@ -18,4 +18,5 @@ int main(){
     cin >> c;
     cout << checkChar(c) << endl;
 
+    return 0;
 }

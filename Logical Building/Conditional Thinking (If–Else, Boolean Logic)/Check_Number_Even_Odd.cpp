@@ -12,6 +12,10 @@ string EvenOdd(int num){
 
 int main(){
     int number;
-    cin>>number;
-    cout<<EvenOdd(number)<<endl;
+
+    cin >> number;
+
+    cout << EvenOdd(number) << endl;
+
+    return 0;
 }

@@ -18,4 +18,6 @@ int main(){
     cin >> num;
 
     cout << checkMultiple(num) << endl;
+
+    return 0;
 }

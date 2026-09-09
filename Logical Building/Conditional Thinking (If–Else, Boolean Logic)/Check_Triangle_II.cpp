@@ -25,4 +25,6 @@ int main(){
     cin>> side3;
 
     cout << trianlePossible(side1, side2, side3) << endl;
+
+    return 0;
 }

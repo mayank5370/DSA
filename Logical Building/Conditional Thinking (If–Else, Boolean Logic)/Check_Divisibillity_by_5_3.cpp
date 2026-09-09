@@ -14,4 +14,6 @@ int main(){
     int num;
     cin>>num;
     cout<<divisibility(num)<<endl;
+
+    return 0;
 } 

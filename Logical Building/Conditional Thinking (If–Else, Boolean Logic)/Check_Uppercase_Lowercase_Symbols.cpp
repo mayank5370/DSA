@@ -18,6 +18,10 @@ string charChecker(char c){
 
 int main(){
     char character;
+
     cin >> character;
+    
     cout << charChecker(character) << endl;
+
+    return 0;
 }

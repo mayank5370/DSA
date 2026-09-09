@@ -43,4 +43,6 @@ int main(){
     cin >> day;
 
     cout << Days(day) << endl;
+
+    return 0;
 }

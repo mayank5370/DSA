@@ -25,4 +25,6 @@ int main(){
     cin >> y;
 
     cout << checkCord(x, y) << endl;
+
+    return 0;
 }

@@ -17,4 +17,6 @@ int main(){
     cin >> age;
 
     cout << voterEligible(age) << endl;
+
+    return 0;
 }

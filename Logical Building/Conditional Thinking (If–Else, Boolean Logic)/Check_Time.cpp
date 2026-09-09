@@ -19,4 +19,6 @@ int main(){
     cin >> hour >> min;
 
     cout << dayTime(hour, min) << endl;
+
+    return 0;
 }

@@ -22,4 +22,7 @@ int main(){
     cin >> time;
 
     cout << checkDayTime(time) << endl;
+
+    return 0;
+    
 }

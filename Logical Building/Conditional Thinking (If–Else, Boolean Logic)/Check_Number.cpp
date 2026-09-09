@@ -17,6 +17,10 @@ string checkInt(int number){
 
 int main(){
     int num; 
-    cin>>num;
-    cout<<checkInt(num)<<endl;
+
+    cin >> num;
+
+    cout << checkInt(num) << endl;
+    
+    return 0;
 }

@@ -22,4 +22,6 @@ int main(){
     int year;
     cin >> year;
     cout<<LeapYear(year)<<endl;
+
+    return 0;
 }

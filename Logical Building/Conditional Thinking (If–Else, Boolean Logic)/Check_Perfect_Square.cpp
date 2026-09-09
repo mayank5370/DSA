@@ -24,4 +24,6 @@ int main(){
     cin >> num;
 
     cout << squareRoot(num) << endl;
+
+    return 0;
 }

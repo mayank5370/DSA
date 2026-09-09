@@ -17,5 +17,7 @@ int main(){
     cin >> income;
 
     cout << taxEligible(age, income) << endl;
+
+    return 0;
 }
 

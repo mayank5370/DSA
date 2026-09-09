@@ -14,7 +14,11 @@ string Largest(int num1, int num2){
 int main(){
     int First_Number;
     int Second_Number;
+
     cin >> First_Number;
     cin >> Second_Number;
+    
     cout<<Largest(First_Number, Second_Number)<<endl;
+
+    return 0;
 }

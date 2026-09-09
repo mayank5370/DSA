@@ -22,4 +22,6 @@ int main() {
     cin >> Password;
 
     cout << passwordCheck(Password) << endl;
+
+    return 0;
 }

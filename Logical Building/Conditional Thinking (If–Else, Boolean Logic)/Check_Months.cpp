@@ -64,4 +64,6 @@ int main()
     cin >> month;
 
     cout << Days(month) << endl;
+
+    return 0;
 }

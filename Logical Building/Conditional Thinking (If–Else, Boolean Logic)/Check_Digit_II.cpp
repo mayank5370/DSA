@@ -26,4 +26,7 @@ int main(){
     cin >> num;
 
     cout << checkDigit(num) << endl;
+
+    return 0;
+    
 }

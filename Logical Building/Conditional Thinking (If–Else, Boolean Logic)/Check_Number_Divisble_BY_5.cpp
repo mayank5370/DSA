@@ -12,6 +12,10 @@ string divisibleBy5(int num){
 
 int main(){
     int num;
+
     cin>>num;
+    
     cout<<divisibleBy5(num)<<endl;
+
+    return 0;
 }

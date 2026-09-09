@@ -23,4 +23,6 @@ int main(){
     cin >> Third_number;
 
     cout << Largest(First_number, Second_number, Third_number) << endl;
+
+    return 0;
 }

@@ -16,4 +16,6 @@ int main(){
     cin >> num;
 
     cout << checkRange(num) << endl;
+
+    return 0;
 }

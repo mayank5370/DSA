@@ -18,4 +18,6 @@ int main(){
     cin >> num2; 
 
     cout << sumNumber(num1, num2) << endl;
+
+    return 0;
 }

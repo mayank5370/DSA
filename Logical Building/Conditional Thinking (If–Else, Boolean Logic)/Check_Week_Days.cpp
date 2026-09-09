@@ -14,4 +14,6 @@ int main(){
     cin >> days;
 
     cout << weekOrWeekend(days) << endl;
+
+    return 0;
 }

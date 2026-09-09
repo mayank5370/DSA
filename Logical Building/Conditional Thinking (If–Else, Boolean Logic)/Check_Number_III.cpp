@@ -21,4 +21,6 @@ int main(){
     cin >> num2;
 
     cout << checkNumber(num1, num2) << endl;
+
+    return 0;
 }

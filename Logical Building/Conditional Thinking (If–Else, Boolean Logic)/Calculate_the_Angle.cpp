@@ -12,4 +12,6 @@ int main(){
     cin >> angle2;
 
     cout << calculateAngle(angle1, angle2) << endl;
+    
+    return 0;
 }

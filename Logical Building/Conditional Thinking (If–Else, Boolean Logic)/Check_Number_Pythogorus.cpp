@@ -22,4 +22,6 @@ int main(){
     cin >> num3;
 
     cout << checkPyth(num1, num2, num3) << endl;
+
+    return 0;
 }

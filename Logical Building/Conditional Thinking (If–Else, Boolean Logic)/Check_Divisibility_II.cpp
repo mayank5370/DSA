@@ -22,4 +22,6 @@ int main(){
     cin >> num;
 
     cout << checkDivisible(num) << endl;
+
+    return 0;
 }

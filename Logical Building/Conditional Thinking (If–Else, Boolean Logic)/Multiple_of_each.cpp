@@ -16,4 +16,6 @@ int main(){
     cin >> num2;
     
     cout << multipleOfEachOther(num1, num2) << endl;
+
+    return 0;
 }

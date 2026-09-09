@@ -21,4 +21,6 @@ int main(){
     cin >> x >> y;
 
     cout << checkPoints(x , y) << endl;
+
+    return 0;
 }

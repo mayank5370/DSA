@@ -20,4 +20,6 @@ int main(){
     cin >> num3;
 
     cout << medianOf3(num1, num2, num3) << endl;
+
+    return 0;
 }

@@ -29,4 +29,6 @@ int main(){
     cin >> number;
 
     cout << checkGrade(number) << endl;
+
+    return 0;
 }

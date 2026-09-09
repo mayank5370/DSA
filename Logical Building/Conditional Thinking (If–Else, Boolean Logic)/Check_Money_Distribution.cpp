@@ -15,4 +15,6 @@ int main(){
     cin >> money;
 
     cout << moneyDistribution(money) << endl;
+
+    return 0;
 }
