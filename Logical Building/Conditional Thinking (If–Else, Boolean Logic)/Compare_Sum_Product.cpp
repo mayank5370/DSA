@@ -22,6 +22,7 @@ string checkSumProduct(int num){
     }
 }
 
+
 int main(){
     int num;
     cin >> num;
