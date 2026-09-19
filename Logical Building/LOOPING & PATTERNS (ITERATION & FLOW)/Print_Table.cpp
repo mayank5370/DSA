@@ -12,4 +12,6 @@ int main(){
     cin >> num;
 
     printTable(num);
+
+    return 0;
 }
