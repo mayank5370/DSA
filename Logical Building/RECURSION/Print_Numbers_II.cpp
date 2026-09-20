@@ -1,14 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void printNumbers(int num){
+int printNumbers(int num){
     if(num == 0){
         return;
     }
-
-    printNumbers(num - 1);
-
     cout << num << " ";
+    
+    printNumbers(num - 1);    
 }
 
 int main(){
