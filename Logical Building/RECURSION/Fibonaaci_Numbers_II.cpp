@@ -16,4 +16,6 @@ int main(){
     cin >> num;
 
     fibnum(0,1,num);
+
+    return 0;
 }
