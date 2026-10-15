@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mayank5370/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/mayank5370/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/mayank5370/DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/mayank5370/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mayank5370/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mayank5370/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayank5370/DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/mayank5370/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mayank5370/DSA/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
